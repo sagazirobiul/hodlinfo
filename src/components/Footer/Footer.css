@@ -1,0 +1,43 @@
+.footer {
+    padding: 12px;
+    border-top: 2px solid #2e3241;
+}
+
+.footer-info {
+    margin-bottom: 3rem;
+}
+
+.footer-info .footer-text {
+    color: #888686;
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0 6px;
+}
+
+.download-btn-box {
+    background: #191D28;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+}
+
+.download-btn-box button {
+    font-family: sans-serif;
+    outline: none;
+    border: 1px solid #17a2b8;
+    color: #17a2b8;
+    background: transparent;
+    font-weight: 200;
+    padding: 7px 15px;
+    border-radius: 4px;
+    transition: 0.3s;
+}
+
+.download-btn-box button:hover {
+    background: #3DC6C1;
+    color: #fff;
+    border: 1px solid #3DC6C1;
+}

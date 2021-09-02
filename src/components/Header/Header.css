@@ -1,0 +1,57 @@
+.header {
+    padding: 30px;
+}
+
+.logo img {
+    width: 70%;
+}
+
+.header-highlight{
+    color: #6CCACB;
+    opacity: 10;
+}
+
+.sub-text {
+    opacity: 0.8;
+    font-size: 18px;
+    color: gray;
+}
+
+.logo-area .header-text {
+    margin-bottom: 0;
+    margin-top: -4px;
+    color: gray;
+    opacity: 0.8;
+}
+
+.dropdown-btn button {
+    margin: 0 0.4rem;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 6px 20px;
+    border-radius: 0.8rem;
+    background-color: #2e3241;
+    border: none;
+}
+
+.time-counter {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 3px solid #3DC6C1;
+    text-align: center;
+    line-height: 34px;
+    color: #fff;
+}
+
+.telegramBtn {
+    margin: 0 1rem;
+    padding: 6px 20px;
+    border-radius: 10px;
+    font-size: 17px;
+    background-color: #3dc6c1;
+    color: #fff;
+    outline: none;
+    border: none;
+}
+

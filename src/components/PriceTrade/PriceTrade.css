@@ -1,0 +1,29 @@
+.trade {
+    padding: 30px 0;
+}
+
+.common-header {
+    font-size: 40px;
+    color: #3DC6C1;
+}
+
+.sub-text {
+    color: #fff;
+    opacity: .45;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.midHeading {
+    font-size: 80px;
+    margin: 0.8rem 0;
+    color: #fff;
+}
+
+.mid-top {
+    font-size: 28px;
+}
+
+.mid-bottom {
+    font-size: 16px;
+}
